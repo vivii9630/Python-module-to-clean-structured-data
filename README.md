@@ -5,6 +5,6 @@ drop_r(data) : This function returns the cleaned dataframe by dropping the rows 
 
 Install by using pip - pip install vivek2dropoffnan. 
 
-Working to expand it on detecing and visualizing of outliers.
+Working to expand it on deteting and visualizing of outliers.
 
 ##
